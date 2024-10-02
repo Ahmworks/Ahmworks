@@ -19,4 +19,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmworks&" alt="ahmworks" /></p>
 
 
-https://github.com/ahmworks/ahmworks/blob/output/github-contribution-grid-snake.gif
+
+![snake gif](https://github.com/Ahmworks/Ahmworks/blob/output/github-contribution-grid-snake.gif)
+
